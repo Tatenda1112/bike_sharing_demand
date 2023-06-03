@@ -23,11 +23,8 @@ The model performed better than the initial model but not as well as the improve
 Do a more extensive data analysis in order to get more information about this dataset
 
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
-|model|hpo1|hpo2|hpo3|score|
-|--|--|--|--|--|
-|initial||?|?|?|
-|add_features|?|?|?|?|
-|hpo|?|?|?|?|
+
+
 ![image](https://github.com/Tatenda1112/bike_sharing_demand/assets/102743794/cc08e816-fb2b-4c73-bd17-8dabbd269426)
 
 
