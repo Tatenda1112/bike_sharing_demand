@@ -30,15 +30,12 @@ Do a more extensive data analysis in order to get more information about this da
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
-TODO: Replace the image below with your own.
-
-![model_train_score.png](img/model_train_score.png)
+![image](https://github.com/Tatenda1112/bike_sharing_demand/assets/102743794/ac339135-46e6-45f6-8c9c-02570aee85f6)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
-TODO: Replace the image below with your own.
+![image](https://github.com/Tatenda1112/bike_sharing_demand/assets/102743794/4eab7808-1bc3-4c20-98cf-541197d0f205)
 
-![model_test_score.png](img/model_test_score.png)
 
 ## Summary
-TODO: Add your explanation
+In this project, I was able to apply all the concepts that were covered in this unit of the course. By using these skills, I was able to develop a   machine learning regression model using the Autogluon framework.
